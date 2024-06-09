@@ -1,4 +1,4 @@
-class Solution {
+class RemoveElement {
     public int removeElement(int[] nums, int val) {
       int i = 0; // pointer for keeping track of non-val elements
   

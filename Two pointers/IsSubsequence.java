@@ -1,4 +1,4 @@
-class Solution {
+class IsSubsequence {
     public boolean isSubsequence(String s, String t) {
         char[] S = s.toCharArray();
         char[] T = t.toCharArray();

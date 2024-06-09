@@ -1,6 +1,6 @@
 
 
-class Solution {
+class IsomorphicString {
     public boolean isIsomorphic(String s, String t) {
         if (s.length()!= t.length()) {
             return false;

@@ -1,6 +1,6 @@
 
 
-class Solution {
+class RansomNote {
     public boolean canConstruct(String ransomNote, String magazine) {
         // Create a HashMap to count the frequency of each letter in the magazine
         Map<Character, Integer> magazineCount = new HashMap<>();

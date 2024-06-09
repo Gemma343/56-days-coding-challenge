@@ -1,5 +1,5 @@
 
-class Solution {
+class PalindromeNo {
     public boolean isPalindrome(int x) {
         // Check if x is negative
         if (x < 0) {

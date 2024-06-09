@@ -1,4 +1,4 @@
-class Solution {
+class MergeSortedArray {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
       // i points to the last element of nums1 (excluding the trailing 0s)
       int i = m - 1;

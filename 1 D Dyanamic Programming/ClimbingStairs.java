@@ -1,4 +1,4 @@
-class Solution {
+class ClimbingStairs {
     public int climbStairs(int n) {
         // Base cases: 1 step for n=1 and 2 steps for n=2
         if (n == 1) {
